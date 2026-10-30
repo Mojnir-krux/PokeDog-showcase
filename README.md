@@ -157,7 +157,7 @@ Plus `badges`, `likes`, `comments`, `tips` and `care_guide_sections`, 11 tables 
 
 ## Author
 
-**Muneer Ahmad** · B.Pharm, BITS Pilani · built for BITSCare, the campus animal-care community.
+**Muneer Ahmad** · BITS Pilani · built for BITSCare, the campus animal-care community.
 Contact: f20251550@pilani.bits-pilani.ac.in
 
 © 2026 Muneer Ahmad. All rights reserved.
